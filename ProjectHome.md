@@ -1,0 +1,1 @@
+Utility that offers to downgrade installed packages to versions that are available in a repository. Intended for systems like Ubuntu and Debian.
